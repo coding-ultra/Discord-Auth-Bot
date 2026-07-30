@@ -1,4 +1,8 @@
-// Synora 乂 𝙳evelopment
+// ─────────────────────────────────────────────────────────────────────────────
+//  PRIME DEV  ·  
+// ─────────────────────────────────────────────────────────────────────────────
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 
 import {
   SlashCommandBuilder,
