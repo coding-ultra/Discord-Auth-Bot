@@ -1,8 +1,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  Synora 乂 𝙳evelopment  ·  /authlink
+//  PRIME DEV  ·  /authlink
 // ─────────────────────────────────────────────────────────────────────────────
-// + Discord: dsc.gg/synoraxdev
-// + Community: https://dsc.gg/synoraxdev (Synora 乂 𝙳evelopment)
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 //
 // Generates a one-time, per-member Discord OAuth2 authorize link (scope:
 // "identify guilds.join"). The member clicks it, approves on Discord, and
