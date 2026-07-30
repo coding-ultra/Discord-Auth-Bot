@@ -1,5 +1,4 @@
-Koi baat nahi! Mujhe samajh aa gaya, pichla wala shayad thoda over-the-top ya zyada "flashy" ho gaya tha. GitHub repositories ke liye humein ek aisa format chahiye jo clean, professional aur easily readable ho, lekin bilkul boring bhi na lage.
-Maine isko thoda aur standard aur neat banaya hai. Emojis ko balance kar diya hai aur formatting ko ekdam clean rakha hai:
+
 ```markdown
 # 🔗 `/authlink` — Setup Guide (Pterodactyl, Single Process)
 
