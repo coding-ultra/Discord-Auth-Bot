@@ -1,5 +1,4 @@
-Oh, acha! Agar yeh GitHub ke README.md file mein jaayega, toh isko GitHub ke special formatting (jaise Alert boxes) ke saath aur bhi professional bana dete hain.
-Aap niche diye gaye code box ke top-right corner se **"Copy code"** par click karke direct apne README.md file mein paste kar sakte hain:
+
 ```markdown
 # 🔗 `/authlink` — Ultimate Setup Guide 🚀
 
