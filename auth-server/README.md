@@ -53,8 +53,3 @@ AUTO_JOIN_GUILD=false   # 🔄 Set to 'true' to auto-join verified members (reus
 > [!WARNING]
 > **Auto-Join Limits:** Setting AUTO_JOIN_GUILD=true requires the bot to *already* be a member of the target guild. (The guilds.join scope cannot make the bot join a brand-new guild on your behalf).
 > 
-```
-
-Maine isme GitHub ke official tags (`> [!NOTE]`, `> [!IMPORTANT]`, `> [!WARNING]`) add kar diye hain. Jab aap isko GitHub par preview karenge, toh yeh color-coded aur bahut premium dikhega! Ek baar try karke dekhiye.
-
-```
