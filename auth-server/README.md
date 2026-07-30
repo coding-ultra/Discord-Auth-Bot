@@ -45,8 +45,4 @@ AUTO_JOIN_GUILD=false   # Set true to auto-join verified members (reuses DISCORD
 ## 📌 Important Notes
  * ⚠️ If startAuthServer logs Skipped — missing DISCORD_CLIENT_ID / ..., double-check that your .env has both DISCORD_CLIENT_SECRET and REDIRECT_URI correctly filled in.
  * ⚠️ AUTO_JOIN_GUILD=true requires the bot to *already* be a member of the target guild (guilds.join cannot make the bot join a new guild on your behalf).
-```
 
-Kya yeh clean aur balanced design aapke GitHub README ke liye zyada behtar lag raha hai, ya aap isay bilkul bina emojis ke ek strict technical documentation jaisa banwana chahte hain?
-
-```
