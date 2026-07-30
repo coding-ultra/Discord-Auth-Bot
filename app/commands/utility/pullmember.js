@@ -1,8 +1,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  Synora 乂 𝙳evelopment  ·  /pullmember
+//  PRIME DEV  ·  
 // ─────────────────────────────────────────────────────────────────────────────
-// + Discord: dsc.gg/synoraxdev
-// + Community: https://dsc.gg/synoraxdev (Synora 乂 𝙳evelopment)
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 //
 // Owner-only. Pulls up to <member_count> previously-verified members into
 // the guild identified by <server_id> (must be a guild the bot is already
