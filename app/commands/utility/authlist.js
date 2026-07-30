@@ -1,9 +1,9 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  Synora 乂 𝙳evelopment  ·  /authlist
+//  PRIME DEV  ·  /authlink
 // ─────────────────────────────────────────────────────────────────────────────
-// + Discord: dsc.gg/synoraxdev
-// + Community: https://dsc.gg/synoraxdev (Synora 乂 𝙳evelopment)
-//
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
+
 // Admin-only, paginated list of every member who has authenticated via
 // /authlink from THIS guild specifically (auth-links.json stores guildId
 // per record, so cross-guild records never leak into another server's list).
