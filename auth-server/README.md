@@ -20,7 +20,7 @@ You will need **two allocations (ports)** on your server for this to work proper
 3. ↪️ Navigate to **OAuth2 ➔ Redirects**, click **"Add Redirect"**, and enter EXACTLY:
    ```http
    [http://wings.hostigo.cloud:3003/callback](http://wings.hostigo.cloud:3003/callback)
-
+```
 ```
 > [!IMPORTANT]
 > **Crucial:** Swap in your *real* node hostname and your *second* allocation's port. Discord matches this string byte-for-byte, so it must perfectly equal the REDIRECT_URI you set below.
