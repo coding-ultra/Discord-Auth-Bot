@@ -1,4 +1,8 @@
-// Synora 乂 𝙳evelopment
+// ─────────────────────────────────────────────────────────────────────────────
+//  PRIME DEV  ·  
+// ─────────────────────────────────────────────────────────────────────────────
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 // Returns the HTML shown in the member's browser right after a successful
 // /authlink verification. Distinct visual identity: deep graphite base,
 // a single drawn "verification seal" ring as the signature moment, Space
