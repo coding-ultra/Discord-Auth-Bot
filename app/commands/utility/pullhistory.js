@@ -1,8 +1,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  Synora 乂 𝙳evelopment  ·  /pullhistory
+//  PRIME DEV  ·  
 // ─────────────────────────────────────────────────────────────────────────────
-// + Discord: dsc.gg/synoraxdev
-// + Community: https://dsc.gg/synoraxdev (Synora 乂 𝙳evelopment)
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 //
 // Owner-only. Shows a detailed Components V2 log of past /pullmember runs —
 // when each ran, which server was targeted, and the join/fail counts.
