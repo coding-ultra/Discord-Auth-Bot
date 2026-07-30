@@ -1,4 +1,8 @@
-// Synora 乂 𝙳evelopment
+// ─────────────────────────────────────────────────────────────────────────────
+//  PRIME DEV  ·  
+// ─────────────────────────────────────────────────────────────────────────────
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 
 import { MessageFlags, PermissionFlagsBits } from 'discord.js';
 import { getRemainingCooldown, triggerCooldown, formatCooldown } from '../../lib/managers/cooldown.js';
