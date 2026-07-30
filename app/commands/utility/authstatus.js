@@ -1,8 +1,8 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  Synora 乂 𝙳evelopment  ·  /authstatus
+//  PRIME DEV  ·  /authlink
 // ─────────────────────────────────────────────────────────────────────────────
-// + Discord: dsc.gg/synoraxdev
-// + Community: https://dsc.gg/synoraxdev (Synora 乂 𝙳evelopment)
+// + Discord: discord.gg/fbGGmgWXy
+// + Community: https://discord.gg/fbGGmgWXy
 //
 // Owner-only command (checked against OWNER_IDS in .env) that shows a public
 // (non-ephemeral) breakdown of the auth-link system:
